@@ -11,7 +11,9 @@ To download a YouTube video to your device using Python, you can follow these ge
 <li><b>Create a Python script:</b> Write a Python script that utilizes the pytube library to download the video. You'll typically use the video URL obtained in step 1 to initialize a YouTube object and call the appropriate methods to download the video file.</li>
 
 <li><b>Execute the script:</b> Run the Python script to start the download process. The video will be saved to your device's local storage in the directory specified in the script or the default location.</li>
-</ol>  <hr>
+</ol>  
+
+<hr>
 
 **2.Downloading full youtube video playlist to device:-** 
 <ol>
@@ -39,7 +41,13 @@ git clone https://github.com/annanya-mathur/Python-automation.git
 ```
   
    <li><b>Installing dependencies </b></li> 
-  
+  A requirements.txt file is a text file commonly used in Python projects to specify the dependencies or packages required for the project to run properly. It typically lists the names and version constraints of the required packages.<br>
+
+Here's an example structure of a requirements.txt file:
+package1==1.2.3 <br>
+package2>=2.0.0,<3.0.0 <br>
+package3==4.5.*<br>
+
   
 ```html
 pip install -r requirements.txt
@@ -58,6 +66,7 @@ python playlist.py <youtube_url>
 ```
   
   </ol>  
+  
 ## Resources and Documentation
 
 Pytube :- https://pytube.io/en/latest/  <br><br>
