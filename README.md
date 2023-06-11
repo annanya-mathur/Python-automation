@@ -13,7 +13,7 @@ To download a YouTube video to your device using Python, you can follow these ge
 <li><b>Execute the script:</b> Run the Python script to start the download process. The video will be saved to your device's local storage in the directory specified in the script or the default location.</li>
 </ol>  
 
-<br><br><br>
+<br><br>
 
 **2.Downloading full youtube video playlist to device:-** 
 <ol>
