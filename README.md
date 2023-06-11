@@ -11,7 +11,7 @@ To download a YouTube video to your device using Python, you can follow these ge
 <li><b>Create a Python script:</b> Write a Python script that utilizes the pytube library to download the video. You'll typically use the video URL obtained in step 1 to initialize a YouTube object and call the appropriate methods to download the video file.</li>
 
 <li><b>Execute the script:</b> Run the Python script to start the download process. The video will be saved to your device's local storage in the directory specified in the script or the default location.</li>
-</ol>  
+</ol>  <hr>
 
 **2.Downloading full youtube video playlist to device:-** 
 <ol>
@@ -28,26 +28,30 @@ To download a YouTube video to your device using Python, you can follow these ge
 ## Steps to run the task
 
 <ol>
-  <li></li> 
+  <li><b>Cloning git repo</b></li> 
+  
+ Cloning a Git repository refers to creating a local copy of an existing remote repository. This allows you to have the entire repository's history, branches, and files on your local machine for easier collaboration, development, and version control.
+
+
   
 ```html
 git clone https://github.com/annanya-mathur/Python-automation.git
 ```
   
-   <li></li> 
+   <li><b>Installing dependencies </b></li> 
   
   
 ```html
 pip install -r requirements.txt
 ```
   
-   <li></li> 
+   <li><b>To download single video</b></li> 
   
 ```html
 python auto.py <youtube_url>
 ```
   
-   <li></li> 
+   <li><b>To download whole playlist</b></li> 
   
 ```html
 python playlist.py <youtube_url>
