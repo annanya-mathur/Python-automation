@@ -3,6 +3,16 @@ A Python automation tool is a powerful software solution that harnesses the capa
 
 ## Resources
 ```html
+<link href="https://pytube.io/en/latest/"
+      rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet">
 https://pytube.io/en/latest/
 https://docs.python.org/3/library/sys.html
 https://docs.python.org/3/library/xml.etree.elementtree.html
