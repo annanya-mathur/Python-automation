@@ -29,9 +29,11 @@ To download a YouTube video to your device using Python, you can follow these ge
 
 <ol>
   <li></li> 
+  
 ```html
 git clone https://github.com/annanya-mathur/Python-automation.git
 ```
+  
    <li></li> 
 ```html
 pip install -r requirements.txt
