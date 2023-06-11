@@ -14,7 +14,6 @@ To download a YouTube video to your device using Python, you can follow these ge
 </ol>  
 
 <br><br>
-
 **2.Downloading full youtube video playlist to device:-** 
 <ol>
   <li><b>Obtain playlist URL:</b> Find the YouTube playlist you want to download and copy its URL from the browser's address bar. Make sure you have the URL of the entire playlist, not just an individual video within the playlist.</li>
