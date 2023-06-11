@@ -25,13 +25,27 @@ To download a YouTube video to your device using Python, you can follow these ge
  <li> <b>Execute the script:</b> Run the Python script, providing the playlist URL as input. The script will start downloading the videos in the playlist, saving them to the specified location on your device.</li>
 </ol>  
 
-## Run
+## Steps to run the task
+
+<ol>
+  <li></li> 
 ```html
 git clone https://github.com/annanya-mathur/Python-automation.git
 ```
+   <li></li> 
 ```html
 pip install -r requirements.txt
 ```
+   <li></li> 
+```html
+python auto.py <youtube_url>
+```
+   <li></li> 
+```html
+python playlist.py <youtube_url>
+```
+  
+  </ol>  
 ## Resources and Documentation
 
 Pytube :- https://pytube.io/en/latest/  <br><br>
