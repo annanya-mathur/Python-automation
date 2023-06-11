@@ -3,5 +3,8 @@ A Python automation tool is a powerful software solution that harnesses the capa
 
 ## Resources
 ```html
-A Python automation tool is a software program or library that allows users to automate repetitive tasks and streamline processes using the Python programming language. It provides a fr
+https://pytube.io/en/latest/
+https://docs.python.org/3/library/sys.html
+https://docs.python.org/3/library/xml.etree.elementtree.html
+https://docs.python.org/3/library/os.html
 ```
