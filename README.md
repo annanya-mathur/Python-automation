@@ -62,7 +62,7 @@ python auto.py <youtube_url>
    <li><b>To download whole playlist</b></li> 
   
 ```html
-python playlist.py <youtube_url>
+python playlist.py 
 ```
   Then enter url<br>
   For eg:- Enter the YouTube playlist URL: https://youtube.com/playlist?list=PLKZaSt2df1gzXwWajTRwoJUQhWhpgabXQ
