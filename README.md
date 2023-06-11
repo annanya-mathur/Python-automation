@@ -35,14 +35,20 @@ git clone https://github.com/annanya-mathur/Python-automation.git
 ```
   
    <li></li> 
+  
+  
 ```html
 pip install -r requirements.txt
 ```
+  
    <li></li> 
+  
 ```html
 python auto.py <youtube_url>
 ```
+  
    <li></li> 
+  
 ```html
 python playlist.py <youtube_url>
 ```
