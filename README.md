@@ -64,8 +64,8 @@ python auto.py <youtube_url>
 ```html
 python playlist.py <youtube_url>
 ```
-  
-  For eg:- python playlist.py https://www.youtube.com/watch?v=a_qW-DnN1k0
+  Then enter url<br>
+  For eg:- Enter the YouTube playlist URL: https://youtube.com/playlist?list=PLKZaSt2df1gzXwWajTRwoJUQhWhpgabXQ
   </ol>  
   
 ## Resources and Documentation
